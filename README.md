@@ -6,7 +6,7 @@ My name is Joas. I am an ambitious developer who is learning more about games an
 - 🌱 I’m currently learning C++, GLFW and OpenGL
 - 📫 How to reach me: jse.sahetapy@gmail.com
 
-# Coding skills 
+### Coding skills 
 <!--
 **JSTappy/JSTappy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
