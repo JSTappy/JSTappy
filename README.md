@@ -6,8 +6,8 @@ My name is Joas. I am an ambitious developer who is learning more about games an
 - 🌱 I’m currently learning C++, OpenGL and Mathermatics
 - 📫 How to reach me: jse.sahetapy@gmail.com
 
-## Currently Working As 🚀
--  🚀 Lead Developer for Polygonia Valley https://www.polygonia.nl/
+## Currently Working As
+-  🚀 The Lead Developer for Polygonia Valley https://www.polygonia.nl/
 
 ## Programming skills 💻
 
